@@ -8,6 +8,13 @@ This Power BI dashboard provides a comprehensive an_alytical view of inventory p
 
 The dashboard is organized into key analytical views:
 
+## Preview 
+Page 1
+![2025-05-31T10_02_51 969Z](https://github.com/user-attachments/assets/74dcf3f7-0c9f-448d-b61f-0dc5c914ce1e)
+
+Page 2
+![025-05-31T10_03_18 025Z](https://github.com/user-attachments/assets/06ecc33a-9ea6-46e6-8dea-50ec214a78a2)
+
 ### Page 1: ABC Analysis & Re-order Overview
 
 *   **Sum of Annual Revenue and Count of SKU ID by ABC Category:**
